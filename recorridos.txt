@@ -1,0 +1,14 @@
+Recorridos 
+Estados validos: 
+PENDIENTE
+CERRADO
+TERMINADO
+
+ZONA: Villa Italia
+ESTADO: PENDIENTE
+
+ZONA: Campus Universitario
+ESTADO: PENDIENTE
+
+ZONA: Barrio Golf
+ESTADO: PENDIENTE
